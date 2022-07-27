@@ -1,0 +1,65 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(img/background_plaine.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+.atck{
+    display: flex;
+    padding-left: 5rem;
+    width: 10rem;
+     height: 10rem;
+}
+
+.attaque{
+        padding-top: 45rem;
+        padding-left: 15rem;
+
+}
+
+img{
+    height: 15rem;
+    width: 15rem;
+    
+}
+
+    
+    
+
+.imag{
+    display: flex;
+    justify-content: center;
+    height: 10rem;
+    width: 10rem;
+    
+    
+}
+
+
+.fleche{
+    display: flex;
+}
+
+.fleche2{
+   padding-left: 50rem;
+   padding-bottom: 50rem;
+}
+
+#rotated-image {
+    -webkit-transform: rotate(130deg);
+            transform: rotate(130deg);
+}
+
+#rotated-imagedos {
+    -webkit-transform: rotate(230deg);
+            transform: rotate(230deg);
+}
+
+#rotated-imagetres {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+}
+
